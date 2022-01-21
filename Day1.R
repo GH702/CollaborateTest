@@ -77,4 +77,4 @@ ggplot(compensation, aes(x = Grazing, y= Fruit))+
 
 ggsave(mygraph, "myGraph.jpeg")
 
-
+##########Have a great weekend, this has been fun!
